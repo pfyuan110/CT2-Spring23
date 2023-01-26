@@ -7,6 +7,7 @@ Flex sensor
 Collect data on the degree of neck bending to check whether my neck bends too much and warn me
 
 ## 3. Connection
+![This is the connection](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week1/connection.jpg)
 
 ## 4. Code
 ```
@@ -59,6 +60,7 @@ void loop() {
 
 ## 5. Data
 Very unstable. Need to change the sensor or connection??
+![This is data](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week1/data.png)
 
 ## 6. Note
 a. The values (not changes) is recorded every 5s.
