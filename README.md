@@ -1,2 +1,2 @@
-# CT1-Fall22
-A collection of work for the fall22 semester artcenter college creative technology class.
+# CT2-Spring22
+A collection of work for the spring22 semester artcenter college creative technology class.
