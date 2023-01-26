@@ -1,14 +1,14 @@
 # Project 1
 
-## 1. Sensor:
+## 1. Sensor
 Flex sensor
 
-## 2. Function:
+## 2. Function
 Collect data on the degree of neck bending to check whether my neck bends too much and warn me
 
-## 3. Connection:
+## 3. Connection
 
-## 4. Code:
+## 4. Code
 ```
 #include "config.h"
 
@@ -57,9 +57,9 @@ void loop() {
 }
 ```
 
-## 5. Data:
+## 5. Data
 Very unstable. Need to change the sensor or connection??
 
-## 6. Note:
+## 6. Note
 a. The values (not changes) is recorded every 5s.
 b. The values will not be transformed into other meaningful data.
