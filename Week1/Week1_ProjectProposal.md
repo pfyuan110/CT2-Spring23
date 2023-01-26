@@ -65,3 +65,9 @@ Very unstable. Need to change the sensor or connection??
 ## 6. Note
 a. The values (not changes) is recorded every 5s.
 b. The values will not be transformed into other meaningful data.
+
+## 7. Feedback
+a. Check the connection. Three pins sensor doesn't need resistor.
+b. Consider other situations except sitting, such as walking around.
+c. Try the stretch sensor.
+d. Buy other component, such as battery.
