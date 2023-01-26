@@ -63,11 +63,11 @@ Very unstable. Need to change the sensor or connection??
 ![This is data](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week1/data.png)
 
 ## 6. Note
-a. The values (not changes) is recorded every 5s.
-b. The values will not be transformed into other meaningful data.
+- The values (not changes) is recorded every 5s.
+- The values will not be transformed into other meaningful data.
 
 ## 7. Feedback
-a. Check the connection. Three pins sensor doesn't need resistor.
-b. Consider other situations except sitting, such as walking around.
-c. Try the stretch sensor.
-d. Buy other component, such as battery.
+- Check the connection. Three pins sensor doesn't need resistor.
+- Consider other situations except sitting, such as walking around.
+- Try the stretch sensor.
+- Buy other component, such as battery.
