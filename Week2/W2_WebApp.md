@@ -1,7 +1,7 @@
 # Project 1
 
 ## 1. Sensor
-Flex senor
+Flex senor<br>
 Stretch sensor (technically)
 
 ## 2. Function
