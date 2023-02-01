@@ -8,10 +8,10 @@ Collect data on the degree of neck bending and visualize it using p5js.
 
 ## 3. Connection
 Still figuring out how to process and analog the data from stretch sensor, so I use flex sensor as a test.
-
+![43115e301a688aee023a9b22c237fc9](https://user-images.githubusercontent.com/113642868/215972845-3e31568f-a30a-4129-b615-9573af1c0552.jpg)
 
 ## 4. Code of ESP32
-
+The same as Week 1.
 
 ## 5. Code of p5js
 `https://editor.p5js.org/pfyuan110/sketches/yYzrSy-_W`
