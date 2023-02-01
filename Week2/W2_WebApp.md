@@ -21,6 +21,5 @@ The same as Week 1.
 It seems like 5s interval is not suitablt for flex sensor. When the sensor was kept bent at the same status, its value would gradually decrease in a short time. 
 ![image](https://user-images.githubusercontent.com/113642868/215972047-8375feeb-e801-4cbd-ba1c-c0b75be8bd2c.png)
 
-### Defalut State
-
-### When my neck bend too much for a long time
+### Visualization
+![image](https://raw.githubusercontent.com/pfyuan110/CT2-Spring23/main/Week2/result%20of%20p5js.png)
