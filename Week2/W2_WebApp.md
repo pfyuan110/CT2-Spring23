@@ -17,9 +17,10 @@ The same as Week 1.
 `https://editor.p5js.org/pfyuan110/sketches/yYzrSy-_W`
 
 ## 6. Result
-Data: It seems like 5s interval is not suitablt for flex sensor. When the sensor was kept bent at the same status, its value would gradually decrease in a short time. 
+### Data
+It seems like 5s interval is not suitablt for flex sensor. When the sensor was kept bent at the same status, its value would gradually decrease in a short time. 
 ![image](https://user-images.githubusercontent.com/113642868/215972047-8375feeb-e801-4cbd-ba1c-c0b75be8bd2c.png)
 
-Defalut State:
+### Defalut State
 
-When my neck bend too much for a long time:
+### When my neck bend too much for a long time
