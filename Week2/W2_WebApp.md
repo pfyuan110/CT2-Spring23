@@ -1,7 +1,8 @@
 # Project 1
 
 ## 1. Sensor
-Flex senor and Stretch sensor (technically)
+Flex senor
+Stretch sensor (technically)
 
 ## 2. Function
 Collect data on the degree of neck bending and visualize it using p5js.
