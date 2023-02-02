@@ -37,3 +37,5 @@ Still working on the data collection. So the pattern could not show anything mea
 ![image](https://user-images.githubusercontent.com/113642868/216463825-f89eedac-ab97-4a86-9651-8f0cffc42508.png)
 - The visuailization when rotating my wrist:<br>
 ![image](https://user-images.githubusercontent.com/113642868/216474978-ade52ecd-360a-4aa8-bb7c-b74d67947afc.png)
+- Make some changes of visualization to make it more personal.
+- Document everything, even the fail.
