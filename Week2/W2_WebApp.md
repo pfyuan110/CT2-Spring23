@@ -33,3 +33,7 @@ Still working on the data collection. So the pattern could not show anything mea
 ### In Class Update
 - Cord Stretch Sensor is better than sheet sensor.
 - The degree of neck stretching is too subtle. So I decided to change the detection to my wrist and collect the data when using mouse, computer, and so on.
+- The date when rotating my wrist:
+![image](https://user-images.githubusercontent.com/113642868/216463825-f89eedac-ab97-4a86-9651-8f0cffc42508.png)
+- The visuailization when rotating my wrist:<br>
+![image](https://user-images.githubusercontent.com/113642868/216464422-eb071e89-6552-4239-a04f-2e3a0b8d5dd8.png)
