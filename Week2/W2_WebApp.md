@@ -29,3 +29,7 @@ It seems like 5s interval is not suitablt for flex sensor. When the sensor was k
 Still working on the data collection. So the pattern could not show anything meaningful at this time.
 
 ![image](https://raw.githubusercontent.com/pfyuan110/CT2-Spring23/main/Week2/result%20of%20p5js.png)
+
+### In Class Update
+- Cord Stretch Sensor is better than sheet sensor.
+- The degree of neck stretching is too subtle. So I decided to change the detection to my wrist and collect the data when using mouse, computer, and so on.
