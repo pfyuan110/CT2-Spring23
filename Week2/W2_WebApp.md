@@ -36,4 +36,4 @@ Still working on the data collection. So the pattern could not show anything mea
 - The date when rotating my wrist:
 ![image](https://user-images.githubusercontent.com/113642868/216463825-f89eedac-ab97-4a86-9651-8f0cffc42508.png)
 - The visuailization when rotating my wrist:<br>
-![image](https://user-images.githubusercontent.com/113642868/216464422-eb071e89-6552-4239-a04f-2e3a0b8d5dd8.png)
+![image](https://user-images.githubusercontent.com/113642868/216474978-ade52ecd-360a-4aa8-bb7c-b74d67947afc.png)
