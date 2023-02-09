@@ -3,11 +3,11 @@
 ## 1. Sensor
 Stretch sensor (Cord)
 
-## 2. Function
+## 2. Description
 Collect and visualize of right wrist motion data while using a computer.
 
 ## 3. Connection and Installation
-
+![Week3/Installation_1.jpg](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week3/Installation_1.jpg)
 
 ## 4. Code of ESP32
 ```
@@ -17,7 +17,7 @@ Collect and visualize of right wrist motion data while using a computer.
 
 AdafruitIO_Feed *myFlexFeed = io.feed("stretch_feed");
 
-int interval = 5000;                  //equal to 10s
+int interval = 5000;                  
 int prevTimestamp, currTimestamp = 0;
 
 void setup() {
@@ -47,7 +47,7 @@ void loop() {
   Serial.print("Readding Stretch Value: ");
   Serial.println(value);
   
-  if(currTimestamp % interval < prevTimestamp % interval){   //the measurment could never presicely to 0, so we need to compare
+  if(currTimestamp % interval < prevTimestamp % interval){  
   Serial.print("Sending Stretch Value: ");
   Serial.println(value);
   myFlexFeed->save(value);
@@ -62,15 +62,25 @@ void loop() {
 `https://editor.p5js.org/pfyuan110/sketches/_wYYSbwY_`
 
 ## 6. Data
-Collected from 15:15 - 15: 45 at Feb.8.
+Collected from 15:15 - 15: 45 at Feb.8.<br>
+
+![image](https://user-images.githubusercontent.com/113642868/217677558-bbf6fc1d-5a9d-40fd-92f9-63c349496368.png)
 
 ## 7. Visualization
-
+Interestingly, through the data and visulization pattern, I found that my wrist always keeps the same angle at most of working time, whether using keyboard or mouse.
 
 ## 8. Attempts
-#### Flex Sensor
-When bending the sensor to maintain a certain status for a while, the data gradually decreased. It didn't achieve the data changes I wanted.
-[See this document for details](Week2/W2_WebApp.md)
-#### Stretch Sensor - sheet
-It needs to pull very hard to see significant data changes. When I applied it to my body, the movement was not strong enough to make obvious change of data.
-(installation pic)
+### Flex Sensor
+When bending the sensor to maintain a certain status for a while, the data gradually decreased. It didn't achieve the data changes I wanted.<br>
+[See this document for details](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week2/W2_WebApp.md)
+
+### Stretch Sensor (Sheet)
+It needs to pull very hard to see significant data changes. When I applied it to my body, the movement was not strong enough to make obvious change of data.<br>
+
+![image](https://user-images.githubusercontent.com/113642868/217680994-3ffa843a-a58e-492f-8d48-bb22f4ebf99b.jpg)
+
+### Different Installation Postition
+I tried to put cord inside my hand. But the data pattern was not that ideal since the cord inside my hand was more likely to be affected by the movement and deviate from its original position, which affected the accuracy of the stretch.<br>
+Collected from 15:50 - 16:05 at Feb.8.
+
+![image](https://user-images.githubusercontent.com/113642868/217679960-964d5373-f520-4a6f-b5f3-15af985c9086.png)
