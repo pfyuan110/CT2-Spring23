@@ -69,6 +69,9 @@ Collected from 15:15 - 15: 45 at Feb.8.<br>
 ## 7. Visualization
 Interestingly, through the data and visulization pattern, I found that my wrist always keeps the same angle at most of working time, whether using keyboard or mouse.
 
+![image](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week3/Working.png)
+![image](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week3/Breaking.png)
+
 ## 8. Attempts
 ### Flex Sensor
 When bending the sensor to maintain a certain status for a while, the data gradually decreased. It didn't achieve the data changes I wanted.<br>
