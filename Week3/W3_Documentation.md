@@ -7,7 +7,7 @@ Stretch sensor (Cord)
 Collect and visualize of right wrist motion data while using a computer.
 
 ## 3. Connection and Installation
-![image](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week3/Installation_all.jpg)
+![Week3/Installation_1.jpg](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week3/Installation_1.jpg)
 
 ## 4. Code of ESP32
 ```
