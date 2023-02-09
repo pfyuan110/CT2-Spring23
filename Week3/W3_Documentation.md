@@ -72,14 +72,14 @@ Interestingly, through the data and visulization pattern, I found that my wrist 
 ## 8. Attempts
 ### Flex Sensor
 When bending the sensor to maintain a certain status for a while, the data gradually decreased. It didn't achieve the data changes I wanted.<br>
-[See this document for details](Week2/W2_WebApp.md)
+[See this document for details](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week2/W2_WebApp.md)
 
 ### Stretch Sensor (Sheet)
 It needs to pull very hard to see significant data changes. When I applied it to my body, the movement was not strong enough to make obvious change of data.<br>
 
 ![image](https://user-images.githubusercontent.com/113642868/217680994-3ffa843a-a58e-492f-8d48-bb22f4ebf99b.jpg)
 
-### Different installation postition
+### Different Installation Postition
 I tried to put cord inside my hand. But the data pattern was not that ideal since the cord inside my hand was more likely to be affected by the movement and deviate from its original position, which affected the accuracy of the stretch.<br>
 Collected from 15:50 - 16:05 at Feb.8.
 
