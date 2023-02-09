@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 - The Mediated Extensions of Self
 
 ## 1. Sensor
 Stretch sensor (Cord)
