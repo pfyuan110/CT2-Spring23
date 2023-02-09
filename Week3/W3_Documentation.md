@@ -84,6 +84,9 @@ It needs to pull very hard to see significant data changes. When I applied it to
 
 ### Different Installation Postition
 I tried to put cord inside my hand. But the data pattern was not that ideal since the cord inside my hand was more likely to be affected by the movement and deviate from its original position, which affected the accuracy of the stretch.<br>
+
+![image](https://github.com/pfyuan110/CT2-Spring23/blob/main/Week3/Process/Installation_inside.jpg)
+
 Collected from 15:50 - 16:05 at Feb.8.
 
 ![image](https://user-images.githubusercontent.com/113642868/217679960-964d5373-f520-4a6f-b5f3-15af985c9086.png)
