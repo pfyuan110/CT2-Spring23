@@ -1,7 +1,7 @@
 # Archeologies of the Futures
 
 ## 2D Matrix
-![2D Matrix](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/2D%20Matrix.jpg)
+![2D Matrix](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/2D%20Matrix.jpg)
 
 ## Backgournd
 With the irreversible trend of population aging around the world and the gradual development of technology, digital paradise becomes a reality. After reaching a certain age, humans can upload their consciousness (paid) into a virtual world with customizable age and social chronology. After death, they can choose whether to enter a digital paradise (paid) permanently, becoming an ageless and immortal digital life. <br>
@@ -15,30 +15,36 @@ Digital paradises also have rank distinctions. The rich have access to the freer
 ## Proposal
 I would like to make a euthanasia Product to present the concept of **the last meal**.
 
-#### 02/17 Version 1
+#### 1. 02/17 
 I used DALL·E to generate this scene for reference.
-![Version1]()
-#### Feedback
+
+![Version1](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/DALL%C2%B7E%202023-02-17%2016.52.28%20-%203d%20render%20of%20an%20cozy%20Euthanasia%20food%2C%20digital%20art%2C%20high%20tech%2C%20last%20meal%2C%20peace%20astmosphere.png)
+
+#### 2. Feedback
 - Archeologies: it should be something that could be found after a period of time. So maybe thinking about the food package, the last drink (with some friction on it), the machine that makes the food, etc. And where would people like to conduct the euthanasia, in everyone’s home, factory, or friends’ homes?
 - How to make others know that it is the last meal? No language since we don't understand the future language.
 
-
-#### 02/19 Version 2
+#### 3. 02/19 Update
 A tabletop machine for making food that helps people euthanize in their own homes. The materials used to make food are the common household nutrient solution of that time and the lethal ingredients that build in the machine. To make food, you simply input the nutrient solution from your home and select the desired food by holographic projection. Then all you need to do is just wait for the food to finish. <br>
 Be noticed: this table machine has age limitation and costs some money, so it's not available to everyone.
-![Sketch]()
+![Sketch](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/sketch.png)
 
 ## Moodboard
 I would like to use stylized material to render my scene. <br>
 https://www.youtube.com/watch?v=kFnd7T3lgUE&ab_channel=RyanKingArt
+![mood1](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/moodboard%201.png)
 https://www.youtube.com/watch?v=03MAGcN0_UE&ab_channel=SamBowman
+![mood2](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/moodboard%202.png)
 https://www.youtube.com/watch?v=YDHGm1W0A-c&ab_channel=Littlerolz
+![mood3](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/moodboard%203.png)
 
 ## Modeling
-![Modeling]()
+![Modeling](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/modeling.png)
 
 ## Rendering
-![Output](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/final.jpg)
+![Output](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/0222.png)
 
 ## Editing
-![Final](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/final.jpg)
+I added some visual elements to the scene using PhotoShop. I designed the package of product and added the projection of the machine.
+
+![Final](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/assets/final.jpg)
