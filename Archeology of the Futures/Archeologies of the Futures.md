@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=YDHGm1W0A-c&ab_channel=Littlerolz
 
 ## Rendering
 ![Output](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/final.jpg)
+
+## Editing
+![Final](https://github.com/pfyuan110/CT2-Spring23/blob/main/Archeology%20of%20the%20Futures/final.jpg)
