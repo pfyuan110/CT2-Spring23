@@ -15,3 +15,6 @@ People in this space are made up of multiple embodied identities. Each person's 
 ## Feedback
 - happy place, no concept
 - add some interaction
+
+## Iteration
+A multiverse that have different cores(identity) and environments. The cores and environments could be matched at will.
