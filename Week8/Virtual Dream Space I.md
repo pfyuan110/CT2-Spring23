@@ -14,3 +14,4 @@ People in this space are made up of multiple embodied identities. Each person's 
 
 ## Feedback
 - happy place, no concept
+- add some interaction
