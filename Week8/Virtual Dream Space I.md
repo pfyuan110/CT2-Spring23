@@ -16,7 +16,7 @@ People in this space are made up of multiple embodied identities. Each person's 
 - happy place, no concept
 - add some interaction
 
-## In Class 
+## In Class Update
 A simple world with a vast, pure terrain/plane. Every time you click, there will be a 'thing' dropping into this world. So the world looks different every time it is generated and interacted. I would like to play with different kinds of shaders or materials.
 ![image](https://user-images.githubusercontent.com/113642868/225753727-3bab7b10-6b17-444f-8275-1fac124f0135.png)
 ![image](https://user-images.githubusercontent.com/113642868/225753770-7261fb6e-3106-4c96-85fd-7c6548500306.png)
