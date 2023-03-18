@@ -7,3 +7,8 @@
 - Acting as a viewer, each jump "I" make in this world will be affected by a very light gravity.
 
 ## Sketch
+![image](https://github.com/pfyuan110/CT2-Spring23/blob/main/Virtual%20Dream%20Space/assets/sketch%202.jpg)
+
+## Modeling
+
+## Unity
