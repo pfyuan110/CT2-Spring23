@@ -10,5 +10,8 @@
 ![image](https://github.com/pfyuan110/CT2-Spring23/blob/main/Virtual%20Dream%20Space/assets/sketch%202.jpg)
 
 ## Modeling
+I created some surreal components in this world.
+
+![image](https://user-images.githubusercontent.com/113642868/226234272-be4b2189-1b8d-4f8c-b555-813befc51e9b.png)
 
 ## Unity
