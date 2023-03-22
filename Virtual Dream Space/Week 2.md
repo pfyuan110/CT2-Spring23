@@ -14,7 +14,14 @@ I created some surreal components in this world.
 
 ![image](https://user-images.githubusercontent.com/113642868/226234272-be4b2189-1b8d-4f8c-b555-813befc51e9b.png)
 
+Additionally, I also made a simple grass to achieve the surreal effect.
+
+![image](https://user-images.githubusercontent.com/113642868/226794064-fe1cd723-caa8-411b-b4d4-af721a9858db.png)
+
 ## Unity
-I made this flat and pure terrain to achieve a surreal effect. This world is an soft anti-gravity. Everything floats in the air and rise slowly. When you click, you could add a random object into this world. I am still working on the shader of objects.
+I made this flat and pure terrain to achieve a surreal effect. And I added my grass and wrote a shader to make the gradient color and let them wiggle by wind.
+![image](https://user-images.githubusercontent.com/113642868/226794492-2a7b7c65-fdad-4487-a64b-1c68e35a1339.png)
+
+This world is an soft anti-gravity. Everything floats in the air and rise slowly. When you click, you could add a random object into this world. I am still working on the shader of objects.
 
 ![image](https://user-images.githubusercontent.com/113642868/226792951-bb51ab3f-626a-43b8-b850-7c02a632209e.png)
