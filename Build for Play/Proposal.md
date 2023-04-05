@@ -10,7 +10,7 @@
 - Stretch Sensor
 - ?
 
-## Story and Conpect
+## Story and Concept
 ongoing
 
 ## Art
