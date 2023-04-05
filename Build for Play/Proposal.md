@@ -11,7 +11,8 @@
 - ?
 
 ## Story and Concept
-ongoing
+The building of chinese characters.
+For foreigners, for children, for older learners.
 
 ## Art
 ongoing
