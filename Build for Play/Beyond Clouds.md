@@ -10,7 +10,7 @@
 - When the game is over, press the button to restart.
 
 ## Game Interface
-<img width="604" alt="game" src="https://user-images.githubusercontent.com/113642868/233463529-54f53d30-3b65-4258-818e-88af9ed48ea6.png">
+<img width="333" alt="game" src="https://user-images.githubusercontent.com/113642868/233463529-54f53d30-3b65-4258-818e-88af9ed48ea6.png"> <img width="333" alt="master" src="https://user-images.githubusercontent.com/113642868/233464804-ebafbff5-b696-42e2-9017-4b130c5c2905.png"> <img width="333" alt="gameover" src="https://user-images.githubusercontent.com/113642868/233464843-c0c3b410-03ae-4780-b75d-86115988ef05.png">
 
 ## Physical Controller
 ![controller](https://user-images.githubusercontent.com/113642868/233463640-2929cc8d-b7b2-466b-8844-855e11269087.jpg)
