@@ -45,3 +45,4 @@ void loop() {
 - When I tried to connect the arduino with unity for the first time, I found the frame rate was pretty low. It turned out that the delay time set in the arduino program was too long.
 
 ## Unity Code
+[See this folder.](Scripts/)
